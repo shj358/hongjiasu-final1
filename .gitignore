@@ -1,0 +1,21 @@
+# datasets
+data/
+
+# experiment outputs
+untrack/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# jupyter
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
+
+# model checkpoints
+*.pt
+*.pth
+*.ckpt
